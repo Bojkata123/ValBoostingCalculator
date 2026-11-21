@@ -1,0 +1,10 @@
+C:\Users\bobyt\source\repos\BoostingCalculator\BoostingCalculator\bin\Debug\BoostingCalculator.exe.config
+C:\Users\bobyt\source\repos\BoostingCalculator\BoostingCalculator\bin\Debug\BoostingCalculator.exe
+C:\Users\bobyt\source\repos\BoostingCalculator\BoostingCalculator\bin\Debug\BoostingCalculator.pdb
+C:\Users\bobyt\source\repos\BoostingCalculator\BoostingCalculator\obj\Debug\BoostingCalculator.csproj.AssemblyReference.cache
+C:\Users\bobyt\source\repos\BoostingCalculator\BoostingCalculator\obj\Debug\BoostingCalculator.Form1.resources
+C:\Users\bobyt\source\repos\BoostingCalculator\BoostingCalculator\obj\Debug\BoostingCalculator.Properties.Resources.resources
+C:\Users\bobyt\source\repos\BoostingCalculator\BoostingCalculator\obj\Debug\BoostingCalculator.csproj.GenerateResource.cache
+C:\Users\bobyt\source\repos\BoostingCalculator\BoostingCalculator\obj\Debug\BoostingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\bobyt\source\repos\BoostingCalculator\BoostingCalculator\obj\Debug\BoostingCalculator.exe
+C:\Users\bobyt\source\repos\BoostingCalculator\BoostingCalculator\obj\Debug\BoostingCalculator.pdb
